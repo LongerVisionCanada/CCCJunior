@@ -8,7 +8,7 @@ Students need to manually download [CCC Past Contests, Solutions and Results] th
 
 ## Solutions @ Longer Vision Technology YouTube Channel
 
-[Junior Solutions By Longer Vision Technology YouTube Channel]
+[CCC Junior Solutions By Longer Vision Technology YouTube Channel]
 
 
 ## Other Material for CCC
@@ -23,4 +23,4 @@ Students need to manually download [CCC Past Contests, Solutions and Results] th
 [CCC Online Grader]: https://cccgrader.com/
 [CEMC]: https://cemc.uwaterloo.ca/
 
-[Junior Solutions By Longer Vision Technology YouTube Channel]: https://www.youtube.com/watch?v=untcXqiuejg&list=PLjw8kHF8SeFp5H11X01fu2NjxBJnihvOs
+[CCC Junior Solutions By Longer Vision Technology YouTube Channel]: https://www.youtube.com/watch?v=untcXqiuejg&list=PLjw8kHF8SeFp5H11X01fu2NjxBJnihvOs
